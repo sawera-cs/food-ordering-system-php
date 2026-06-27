@@ -31,10 +31,8 @@ food_ordering_system/
 │── index.php
 │── process.php
 │── style.css
-│── screenshots/
-│    └── interface.png
+│── interface.php
 │── README.md
-```
 
 ## 🗄️ Database
 
@@ -44,7 +42,7 @@ food_ordering_system/
 
 ## 📸 Project Screenshot
 
-![Food Ordering System](screenshots/interface.png)
+![Food Ordering System](interface.png)
 
 ## 🚀 How to Run
 
