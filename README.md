@@ -54,7 +54,7 @@ food_ordering_system/
 6. Open your browser and visit:
 
 ```
-http://localhost/food_ordering_system
+http://localhost/FoodOrderingSystem
 ```
 
 ## 🎯 Learning Outcomes
