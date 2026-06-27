@@ -42,7 +42,7 @@ food_ordering_system/
 
 ## 📸 Project Screenshot
 
-![Food Ordering System](interface.png)
+<img src="interface.png" width="900">
 
 ## 🚀 How to Run
 
